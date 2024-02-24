@@ -1,0 +1,7 @@
+Git:
+1.git init ->git inistalization
+2.git add filename
+3.git commit -m "comments"
+4.create repostry in github
+to know branch -> git branch
+5.copy the link
